@@ -1,4 +1,5 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Prateek Lohani](https://www.linkedin.com/in/prateeklohani)
+# 
+<h1 align="center">[Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Prateek Lohani](https://www.linkedin.com/in/prateeklohani)</h1>
 
 <h3 align="center">A passionate Frontend(React) Developer, also working as an Azure PaaS Developer</h3>
 
