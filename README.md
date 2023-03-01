@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prateek Lohani</h1>
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Prateek Lohani](https://www.linkedin.com/in/prateeklohani)
+
 <h3 align="center">A passionate Frontend(React) Developer, also working as an Azure PaaS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-lohani&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-lohani" /> </p>
