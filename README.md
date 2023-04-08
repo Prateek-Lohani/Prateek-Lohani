@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-lohani&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-lohani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prateeklohani4" target="blank"><img src="https://img.shields.io/twitter/follow/prateeklohani4?logo=twitter&style=for-the-badge" alt="prateeklohani4" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,Version Control**
+- 💻 I’m currently learning **ReactJS,Version Control**
 
 # 🌐 Socials
 
