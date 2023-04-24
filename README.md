@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-lohani&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-lohani" /> </p>
 
 
-- 💻 I’m currently learning **ReactJS,Version Control**
 
 # 🌐 Socials
 
