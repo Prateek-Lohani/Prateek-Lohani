@@ -1,6 +1,5 @@
 
 <img src="https://user-images.githubusercontent.com/67368888/222972274-b1a99d47-ed2f-4a3b-b94a-6de7f26e0c04.gif" width="100%"/>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h3 align="center">A passionate Frontend(React) Developer, also working as an Azure PaaS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-lohani&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-lohani" /> </p>
