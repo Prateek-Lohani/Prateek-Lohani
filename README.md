@@ -26,6 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prateek-lohani&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-lohani&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github.com/Prateek-Lohani/Prateek-Lohani/raw/output/ocean.gif" alt="snake">
-</p>
+<img src="https://raw.githubusercontent.com/Prateek-Lohani/Prateek-Lohani/output/snake.svg" alt="Snake animation" />
+
+###
