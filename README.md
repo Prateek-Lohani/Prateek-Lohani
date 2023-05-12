@@ -1,5 +1,4 @@
-Hi ! there ... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi ! there ... 
 
 
 <img src="https://user-images.githubusercontent.com/67368888/222972274-b1a99d47-ed2f-4a3b-b94a-6de7f26e0c04.gif" width="100%"/>
