@@ -55,7 +55,7 @@
 
 ---
 
-<div style="display: flex;">
+<div align="center">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prateek-lohani&layout=compact&theme=midnight-purple&hide_border=true"/>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prateek-lohani&theme=midnight-purple&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
 </div>
