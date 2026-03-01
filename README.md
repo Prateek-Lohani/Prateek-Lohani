@@ -65,14 +65,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateek-lohani&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-lohani&theme=gotham&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-lohani&theme=gotham&layout=compact&hide_border=false" alt="Top Languages" />
+
 </p>
 
 ---
+
 
 ## 🐍 GitHub Activity Snake
 
